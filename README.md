@@ -1,5 +1,7 @@
 # FLAMELNG QUEENS SMART CONTRACTS
 
+_This code has been merged into [earn-labs/queens-dapp/contracts](https://github.com/earn-labs/queens-dapp/tree/main/contracts)_
+
 ![Version](https://img.shields.io/badge/version-1.0.0-blue.svg?style=for-the-badge)
 ![Forge](https://img.shields.io/badge/forge-v0.2.0-blue.svg?style=for-the-badge)
 ![Solc](https://img.shields.io/badge/solc-v0.8.20-blue.svg?style=for-the-badge)
